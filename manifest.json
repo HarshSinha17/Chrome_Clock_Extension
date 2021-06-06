@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Clock by Harsh Sinha",
+  "description": "This is a simple extension for informing the time",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "alarm.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}

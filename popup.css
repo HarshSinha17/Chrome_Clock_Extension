@@ -1,0 +1,13 @@
+h1{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+div{
+  background: linear-gradient(45deg,pink,pink,aqua);
+}
+#time{
+  text-align: center;
+  position: relative;
+  top: -100%;
+  padding-bottom: 20px;
+}
